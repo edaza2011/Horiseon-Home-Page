@@ -46,6 +46,8 @@ body {
     margin-left: 25px;
 }
 
+/* end header styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -79,6 +81,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* begin benefits section styling */
 
 .benefits {
     margin-right: 20px;
@@ -138,7 +142,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end benefits styling */
 
+/*begin content styling*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -192,7 +198,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end content styling*/
 
+/*begin footer styling*/
 .footer {
     padding: 30px;
     clear: both;
@@ -203,3 +211,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*end footer styling*/
